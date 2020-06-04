@@ -1,4 +1,4 @@
 # hello-world
-10 minute read
+for code-vector-artifact
 
-About me
+Hello World C code
