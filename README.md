@@ -1,4 +1,4 @@
 # hello-world
 for code-vector-artifact
 
-Hello World C code
+Hello World C example
