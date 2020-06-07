@@ -1,10 +1,10 @@
 #include <stdio.h>
+
+char* a = "Hell";
+char* b = "o Wo";
+char* c = "rld!";
+
 int main() {
-  extern a, b, c;
-  putchar(a); putchar(b); putchar(c); putchar('!*n');
+  fputs(a, stdout); fputs(b, stdout); puts(c);
   return 0;
 }
-
-a 'Hell';
-b 'o, W';
-c 'orld';
